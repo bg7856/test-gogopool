@@ -1565,10 +1565,10 @@ available-typed-arrays@^1.0.5:
   resolved "https://registry.yarnpkg.com/available-typed-arrays/-/available-typed-arrays-1.0.5.tgz#92f95616501069d07d10edb2fc37d3e1c65123b7"
   integrity sha512-DMD0KiN46eipeziST1LPP/STfDU0sufISXmjSgvVsoU2tqxctQeASejWcfNtxYKqETM1UxQ8sp2OrSBWpHY6sw==
 
-avalanche@^3.15.3:
-  version "3.15.5"
-  resolved "https://registry.yarnpkg.com/avalanche/-/avalanche-3.15.5.tgz#e15ba41b5be47d7e87b8c15ca60a2a29cc2f3db5"
-  integrity sha512-g+u69QkZhQzEU09C5ZLejMIfU3op3V+i+hP4EOhqH/k37bD/OxoUB2jAMm7UQ8aMHz355djo8mx7t0EFJ6/5cA==
+avalanche@^3.16.0:
+  version "3.16.0"
+  resolved "https://registry.yarnpkg.com/avalanche/-/avalanche-3.16.0.tgz#00820e9d675dd4d06dbe4651fdbcbd3744f9c747"
+  integrity sha512-Xy37+SvtUetBwdZ9Ic7nKXokPdPscdeeoa0RtXXvS/80RKRnhI3f7atKTk6XpGZ//X64s0DsT8IoM/Pn/KdZjg==
   dependencies:
     assert "2.0.0"
     axios "0.27.2"
